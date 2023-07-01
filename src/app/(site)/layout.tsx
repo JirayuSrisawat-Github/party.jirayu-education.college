@@ -1,4 +1,5 @@
 import "@/styles/tailwind.css";
+import "aos/dist/aos.css";
 import className from "@/lib/layout";
 
 export const metadata = {
