@@ -22,7 +22,7 @@ const HomePage = () => {
 
   return (
     <>
-      <div className="bg-gradient-to-tr from-green-400 to-blue-500 min-h-screen flex items-start">
+      <div className="bg-gradient-to-br from-orange-500 to-blue-500 min-h-screen flex items-start">
         <div className="max-w-md mx-auto p-6">
           <h1 className="text-4xl mb-4 text-white" data-aos="fade-up">
             พรรคเพื่อเธอ<span className="text-white"> | </span>For you Party
