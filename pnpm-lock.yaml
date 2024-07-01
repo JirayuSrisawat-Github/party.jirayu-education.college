@@ -36,8 +36,8 @@ dependencies:
     specifier: 3.4.3
     version: 3.4.3
   typescript:
-    specifier: 5.4.4
-    version: 5.4.4
+    specifier: 5.5.3
+    version: 5.5.3
 
 devDependencies:
   '@types/aos':
@@ -1431,8 +1431,8 @@ packages:
     engines: {node: '>=12.20'}
     dev: true
 
-  /typescript@5.4.4:
-    resolution: {integrity: sha512-dGE2Vv8cpVvw28v8HCPqyb08EzbBURxDpuhJvTrusShUfGnhHBafDsLdS1EhhxyL6BJQE+2cT3dDPAv+MQ6oLw==}
+  /typescript@5.5.3:
+    resolution: {integrity: sha512-/hreyEujaB0w76zKo6717l3L0o/qEUtRgdvUBvlkhoWeOVMjMuHNHk0BRBzikzuGDqNmPQbg5ifMEqsHLiIUcQ==}
     engines: {node: '>=14.17'}
     hasBin: true
     dev: false
