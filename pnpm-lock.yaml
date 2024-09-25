@@ -25,7 +25,7 @@ dependencies:
     version: 18.2.0(react@18.2.0)
   react-icons:
     specifier: ^5.0.0
-    version: 5.0.1(react@18.2.0)
+    version: 5.3.0(react@18.2.0)
   sweetalert2:
     specifier: ^11.7.12
     version: 11.10.7
@@ -1134,8 +1134,8 @@ packages:
       scheduler: 0.23.0
     dev: false
 
-  /react-icons@5.0.1(react@18.2.0):
-    resolution: {integrity: sha512-WqLZJ4bLzlhmsvme6iFdgO8gfZP17rfjYEJ2m9RsZjZ+cc4k1hTzknEz63YS1MeT50kVzoa1Nz36f4BEx+Wigw==}
+  /react-icons@5.3.0(react@18.2.0):
+    resolution: {integrity: sha512-DnUk8aFbTyQPSkCfF8dbX6kQjXA9DktMeJqfjrg6cK9vwQVMxmcA3BfP4QoiztVmEHtwlTgLFsPuH2NskKT6eg==}
     peerDependencies:
       react: '*'
     dependencies:
